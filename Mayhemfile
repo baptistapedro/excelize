@@ -1,0 +1,4 @@
+project: excelize
+target: excelize
+cmds:
+  - cmd: /fuzz_cellvalue
